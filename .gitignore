@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.egg-info/
+dist/
+build/
+*.egg
+*.log
+*.parquet
+*.csv
+Data/*
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
